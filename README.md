@@ -38,5 +38,5 @@ The project generates insights about:
 - Product-wise performance
 - Sales visualization graphs
 
-## Author
+## Project by
 Fasi Ul Rahman
